@@ -12,7 +12,7 @@ Build with generated Gemfile.
 $ docker-compose build
 ```
 
-Install following packages. don't forget to update "config/database.yml"
+Install following packages. don't forget to update "config/database.yml" => https://qiita.com/chisaki0606/items/a4b42af5c4735c94057a
 
 ```
 $ docker-compose run web rails webpacker:install
